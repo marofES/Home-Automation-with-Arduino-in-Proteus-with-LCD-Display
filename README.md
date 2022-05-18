@@ -1,0 +1,2 @@
+# Home-Automation-with-Arduino-in-Proteus-with-LCD-Display
+How to Make Home Automation with Arduino in Proteus with Lcd Display Android Control Home Automation - Proteus simulation. Bluetooth Based Home Automation System Simulation on Proteus using Arduino Code  Smart Home Automation Project using IoT | Final Year Project Ideas  Wireless Home Automation using Arduino- Proteus Simulation  IMPLEMENTATION OF HOME AUTOMATION USING ARDUINO IN PROTEUS SOFTWARE
